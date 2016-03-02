@@ -55,6 +55,8 @@ public class FrameLogger extends JFrame{
         try {
             Object obj = parser.parse(new FileReader(
                     "./config.json"));
+//            Object obj = parser.parse(new InputStreamReader(getClass().getResourceAsStream("config.json")));
+
             JSONObject jsonObject = (JSONObject) obj;
 
             String[] errorRGB = ((String) jsonObject.get("Error")).split(",");

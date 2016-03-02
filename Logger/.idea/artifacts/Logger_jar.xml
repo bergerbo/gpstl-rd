@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Logger:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="Logger.jar">
+      <element id="module-output" name="Logger" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jssc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="json-simple-1.1.1" />
+      <element id="library" level="project" name="jssc" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.json" />
+    </root>
+  </artifact>
+</component>

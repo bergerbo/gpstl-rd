@@ -12,24 +12,23 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import java.io.FileReader;
-import java.io.PrintWriter;
+import java.io.*;
 
-public class FrameSerial extends JFrame{
+public class FrameSerial extends JFrame {
 
     private JLabel headerLabel;
     private JPanel controlPanel;
-    String[] colorStrings = { "Error", "Debug", "Info", "Warning", "Default", "Background", "Point" };
+    String[] colorStrings = {"Error", "Debug", "Info", "Warning", "Default", "Background", "Point"};
     Integer[] sizeValue = {14, 16, 18, 20, 25, 36, 48};
     JComboBox<String> jc;
     JComboBox<Integer> sizeBox;
 
-    public FrameSerial(){
-        super("Java Swing Examples");
-        this.setSize(600,400);
+    public FrameSerial() {
+        super("R&D Logger");
+        this.setSize(600, 400);
         this.setLayout(new GridLayout(5, 1));
         this.addWindowListener(new WindowAdapter() {
-            public void windowClosing(WindowEvent windowEvent){
+            public void windowClosing(WindowEvent windowEvent) {
                 System.exit(0);
             }
         });
@@ -42,7 +41,7 @@ public class FrameSerial extends JFrame{
         initList();
     }
 
-    private void initList(){
+    private void initList() {
         headerLabel.setText("Select your serial port");
 
         JList list = new JList(getSerialPortNames()); //data has type Object[]
@@ -57,7 +56,7 @@ public class FrameSerial extends JFrame{
         listenButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 Object temp = list.getSelectedValue();
-                if(temp!=null){
+                if (temp != null) {
                     String port = temp.toString();
                     new LoggerThread(port).start();
                 }
@@ -65,7 +64,7 @@ public class FrameSerial extends JFrame{
         });
         refreshButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                ((DefaultListModel)list.getModel()).removeAllElements();
+                ((DefaultListModel) list.getModel()).removeAllElements();
                 list.setModel(getSerialPortNames());
             }
         });
@@ -79,7 +78,8 @@ public class FrameSerial extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
                 Color c = JColorChooser.showDialog(null, "Choose your color", Color.WHITE);
-                saveColor(c);
+                if (c != null)
+                    saveColor(c);
             }
         });
         config.add(color);
@@ -107,11 +107,13 @@ public class FrameSerial extends JFrame{
     }
 
     private void saveColor(Color c) {
-        try{
+        try {
             JSONParser parser = new JSONParser();
             Object obj = parser.parse(new FileReader("./config.json"));
+//            Object obj = parser.parse(new InputStreamReader(getClass().getResourceAsStream("config.json")));
+
             JSONObject jsonObject = (JSONObject) obj;
-            String colorRGB = c.getRed()+","+c.getGreen()+","+c.getBlue();
+            String colorRGB = c.getRed() + "," + c.getGreen() + "," + c.getBlue();
             jsonObject.put(jc.getSelectedItem(), colorRGB);
             PrintWriter out = new PrintWriter("./config.json", "UTF-8");
             out.print(jsonObject.toJSONString());
@@ -121,10 +123,11 @@ public class FrameSerial extends JFrame{
         }
     }
 
-    private void saveFontSize(){
-        try{
+    private void saveFontSize() {
+        try {
             JSONParser parser = new JSONParser();
             Object obj = parser.parse(new FileReader("./config.json"));
+//            Object obj = parser.parse(new InputStreamReader(getClass().getResourceAsStream("config.json")));
             JSONObject jsonObject = (JSONObject) obj;
             jsonObject.put("Size", sizeBox.getSelectedItem());
             PrintWriter out = new PrintWriter("./config.json", "UTF-8");
@@ -135,10 +138,12 @@ public class FrameSerial extends JFrame{
         }
     }
 
-    private void loadFontSize(){
-        try{
+    private void loadFontSize() {
+        try {
             JSONParser parser = new JSONParser();
             Object obj = parser.parse(new FileReader("./config.json"));
+//            Object obj = parser.parse(new InputStreamReader(getClass().getResourceAsStream("config.json")));
+
             JSONObject jsonObject = (JSONObject) obj;
             sizeBox.setSelectedItem(Integer.valueOf(jsonObject.get("Size").toString()));
 
