@@ -13,9 +13,14 @@ static void grove_gyro_getxyz(I2C_T *i2c, int16_t *x,int16_t *y,int16_t *z);
 //local variables
 static unsigned char cmdbuf[2];
 static unsigned char databuf[2];
-static int16_t x_offset;
-static int16_t y_offset;
-static int16_t z_offset;
+static int16_t x_offset = 0;
+static int16_t y_offset = 0;
+static int16_t z_offset = 0;
+
+static float NOISE_THRESHOLD = 0.1f;
+
+static Timer timer;
+static float lastMeasuredTimeInSec;
 
 // Read 1 byte from I2C
 static char _read_char(I2C_T *i2c, unsigned char addr)
@@ -61,9 +66,16 @@ static double grove_gyro_gettemperature(I2C_T *i2c)
 /*          so as to calculate the angular velocity.        */
 static void grove_gyro_getxyz(I2C_T *i2c, int16_t *x,int16_t *y,int16_t *z)
 {
-    *x  = (_read_char(i2c, ITG3200_GX_H) << 8) + _read_char(i2c, ITG3200_GX_L) + x_offset;
+    *x = (_read_char(i2c, ITG3200_GX_H) << 8) + _read_char(i2c, ITG3200_GX_L) + x_offset;
     *y = (_read_char(i2c, ITG3200_GY_H) << 8) + _read_char(i2c, ITG3200_GY_L) + y_offset;
     *z = (_read_char(i2c, ITG3200_GZ_H) << 8) + _read_char(i2c, ITG3200_GZ_L) + z_offset;
+}
+
+
+//Function that calibrates the measurement and calculates the angle
+float mesure_angle(float degreesPerSec, float delayInSec){
+	double angle = degreesPerSec * delayInSec;
+	return (fabs(angle) > NOISE_THRESHOLD) ? angle : 0;
 }
 
 /*Function: Get the angular velocity and its unit is degree per second.*/
@@ -71,37 +83,49 @@ bool grove_gyro_getangularvelocity(I2C_T *i2c, float *ax,float *ay,float *az)
 {
     int16_t x,y,z;
     grove_gyro_getxyz(i2c, &x,&y,&z);
-    *ax = x/14.375;
-    *ay = y/14.375;
-    *az = z/14.375;
+	
+	float currentTimeInSec = timer.read();
+	float delayInSec = currentTimeInSec - lastMeasuredTimeInSec;
+	lastMeasuredTimeInSec = currentTimeInSec;
+	
+    *ax = mesure_angle(x/14.375, delayInSec);
+    *ay = mesure_angle(y/14.375, delayInSec);
+    *az = mesure_angle(z/14.375, delayInSec);
     
     return true;
 }
 
 bool grove_gyro_zerocalibrate(I2C_T *i2c) 
 {
-  int16_t x_offset_temp;
-  int16_t y_offset_temp;
-  int16_t z_offset_temp;
+  int16_t x_offset_temp = 0;
+  int16_t y_offset_temp = 0;
+  int16_t z_offset_temp = 0;
   int16_t x,y,z;
   x_offset = 0;
   y_offset = 0;
   z_offset = 0;
   
-  for (int i = 0;i < 200;i++){
+  int iterations = 200;
+  for (int i = 0;i < iterations;i++){
     suli_delay_ms(10);
     grove_gyro_getxyz(i2c, &x,&y,&z);
     x_offset_temp += x;
     y_offset_temp += y;
     z_offset_temp += z;
+	// printf("temp offset: %d %d %d\r\n", x_offset_temp, y_offset_temp, z_offset_temp);
   }
 
-  x_offset = abs(x_offset_temp)/200;
-  y_offset = abs(y_offset_temp)/200;
-  z_offset = abs(z_offset_temp)/200;
+  x_offset = abs(x_offset_temp)/iterations;
+  y_offset = abs(y_offset_temp)/iterations;
+  z_offset = abs(z_offset_temp)/iterations;
   if(x_offset_temp > 0)x_offset = -x_offset;
   if(y_offset_temp > 0)y_offset = -y_offset;
   if(z_offset_temp > 0)z_offset = -z_offset;
+  
+  printf("gyro offset: %d %d %d\r\n", x_offset, y_offset, z_offset);
+  
+  timer.start();
+  lastMeasuredTimeInSec = timer.read();
   
   return true;
 }
