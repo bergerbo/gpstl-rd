@@ -1,621 +1,93 @@
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
-[11:24] : Je suis un debug
-[11:24] : Je suis une info
-[11:24] : Je suis un warning
-[11:24] : Je suis un point
-[11:24] : Je suis un log quelconque
-[11:24] : Je suis une erreur
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.070136 0.004555 -1.713594
+[16:55] : ding: 328.873966/p -0.070136 0.004555 -1.713594heading: 328.873966/p -0.070136 0.004555 -1.713594heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
+[16:55] : -0.070136 0.004555 -1.713594
+[16:55] : heading: 328.873966
